@@ -11,4 +11,8 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Sk-Tayus/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
