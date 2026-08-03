@@ -14,6 +14,7 @@ Leetcode solutions with thinking approach and idea.
 | [0303-range-sum-query-immutable](https://github.com/Sk-Tayus/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Sk-Tayus/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Sk-Tayus/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Sk-Tayus/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,4 +81,8 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sk-Tayus/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Sk-Tayus/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
