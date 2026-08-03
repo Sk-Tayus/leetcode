@@ -11,6 +11,7 @@ Leetcode solutions with thinking approach and idea.
 | [0027-remove-element](https://github.com/Sk-Tayus/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Sk-Tayus/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Sk-Tayus/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Sk-Tayus/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Sk-Tayus/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -60,6 +61,7 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sk-Tayus/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Sk-Tayus/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Sk-Tayus/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Sk-Tayus/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
@@ -74,4 +76,8 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sk-Tayus/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sk-Tayus/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
