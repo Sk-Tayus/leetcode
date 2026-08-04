@@ -16,6 +16,7 @@ Leetcode solutions with thinking approach and idea.
 | [0724-find-pivot-index](https://github.com/Sk-Tayus/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Sk-Tayus/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Sk-Tayus/leetcode/tree/master/1672-richest-customer-wealth) |
+| [3731-find-missing-elements](https://github.com/Sk-Tayus/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Leetcode solutions with thinking approach and idea.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sk-Tayus/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sk-Tayus/leetcode/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3731-find-missing-elements](https://github.com/Sk-Tayus/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +53,7 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0088-merge-sorted-array) |
+| [3731-find-missing-elements](https://github.com/Sk-Tayus/leetcode/tree/master/3731-find-missing-elements) |
 ## Queue
 |  |
 | ------- |
