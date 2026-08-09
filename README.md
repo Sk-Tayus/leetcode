@@ -80,6 +80,7 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sk-Tayus/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Sk-Tayus/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
