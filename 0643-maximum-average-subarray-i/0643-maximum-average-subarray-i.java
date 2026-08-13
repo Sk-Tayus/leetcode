@@ -5,11 +5,11 @@ class Solution {
         for (int i = 0; i < k; i++) {
             windowSum += nums[i];
         }
-        double maxAvg = windowSum/k;
+        double maxAvg = windowSum;
         for (int i = k; i < n; i++) {
             windowSum += nums[i] - nums[i-k];
-            maxAvg = Math.max(maxAvg, windowSum/k);
+            maxAvg = Math.max(maxAvg, windowSum);
         }
-        return maxAvg;
+        return maxAvg/k;
     }
 }
