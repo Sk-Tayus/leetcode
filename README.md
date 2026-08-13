@@ -16,6 +16,7 @@ Leetcode solutions with thinking approach and idea.
 | [0238-product-of-array-except-self](https://github.com/Sk-Tayus/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Sk-Tayus/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0643-maximum-average-subarray-i](https://github.com/Sk-Tayus/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Sk-Tayus/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sk-Tayus/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -50,6 +51,7 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sk-Tayus/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Sk-Tayus/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
