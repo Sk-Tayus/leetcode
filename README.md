@@ -12,6 +12,7 @@ Leetcode solutions with thinking approach and idea.
 | [0053-maximum-subarray](https://github.com/Sk-Tayus/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sk-Tayus/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sk-Tayus/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sk-Tayus/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sk-Tayus/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -30,6 +31,7 @@ Leetcode solutions with thinking approach and idea.
 | [0001-two-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sk-Tayus/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sk-Tayus/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Sk-Tayus/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3731-find-missing-elements](https://github.com/Sk-Tayus/leetcode/tree/master/3731-find-missing-elements) |
@@ -68,6 +70,7 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sk-Tayus/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/Sk-Tayus/leetcode/tree/master/3731-find-missing-elements) |
@@ -78,6 +81,7 @@ Leetcode solutions with thinking approach and idea.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sk-Tayus/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
@@ -112,6 +116,7 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sk-Tayus/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Sk-Tayus/leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,4 +130,8 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sk-Tayus/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
