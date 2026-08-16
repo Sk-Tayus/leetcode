@@ -34,6 +34,7 @@ Leetcode solutions with thinking approach and idea.
 | [0169-majority-element](https://github.com/Sk-Tayus/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sk-Tayus/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [3731-find-missing-elements](https://github.com/Sk-Tayus/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -51,11 +52,13 @@ Leetcode solutions with thinking approach and idea.
 | [0020-valid-parentheses](https://github.com/Sk-Tayus/leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Sk-Tayus/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sk-Tayus/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sk-Tayus/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sk-Tayus/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Sk-Tayus/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
