@@ -56,6 +56,7 @@ Leetcode solutions with thinking approach and idea.
 | [0344-reverse-string](https://github.com/Sk-Tayus/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sk-Tayus/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Sk-Tayus/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Sk-Tayus/leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Sliding Window
 |  |
@@ -94,6 +95,7 @@ Leetcode solutions with thinking approach and idea.
 | [0169-majority-element](https://github.com/Sk-Tayus/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sk-Tayus/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Sk-Tayus/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -149,4 +151,5 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sk-Tayus/leetcode/tree/master/0011-container-with-most-water) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Sk-Tayus/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
