@@ -12,6 +12,7 @@ Leetcode solutions with thinking approach and idea.
 | [0027-remove-element](https://github.com/Sk-Tayus/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Sk-Tayus/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sk-Tayus/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Sk-Tayus/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sk-Tayus/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sk-Tayus/leetcode/tree/master/0189-rotate-array) |
@@ -72,6 +73,7 @@ Leetcode solutions with thinking approach and idea.
 | [0011-container-with-most-water](https://github.com/Sk-Tayus/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sk-Tayus/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Sk-Tayus/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Sk-Tayus/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Sk-Tayus/leetcode/tree/master/0344-reverse-string) |
@@ -79,6 +81,7 @@ Leetcode solutions with thinking approach and idea.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sk-Tayus/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sk-Tayus/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
@@ -152,4 +155,12 @@ Leetcode solutions with thinking approach and idea.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sk-Tayus/leetcode/tree/master/0011-container-with-most-water) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sk-Tayus/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sk-Tayus/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sk-Tayus/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
