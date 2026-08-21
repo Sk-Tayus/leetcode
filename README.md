@@ -54,6 +54,7 @@ Leetcode solutions with thinking approach and idea.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sk-Tayus/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sk-Tayus/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Sk-Tayus/leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Sk-Tayus/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Sk-Tayus/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sk-Tayus/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0387-first-unique-character-in-a-string) |
