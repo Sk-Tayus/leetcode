@@ -1,28 +1,16 @@
+//dono array agar frequency same hogi toh tabhi anagram hoga aur minus mai zero hi
+//ana chahiye nahi to false hai
 class Solution {
     public boolean isAnagram(String s, String t) {
-        int l1 = s.length();
-        int l2 = t.length();
-
-        if (l1 != l2)
-            return false;
-        HashMap<Character, Integer> map = new HashMap<>();
-
-        for (int i = 0; i < l1; i++) {
-            char x = s.charAt(i);
-            map.put(x, map.getOrDefault(x, 0) + 1);
+        if (s.length() != t.length()) return false;
+        int[] freq = new int[26];
+        for (int i = 0; i < s.length(); i++) {
+            freq[s.charAt(i) - 'a']++;
+            freq[t.charAt(i) - 'a']--;
         }
-
-        for (int i = 0; i < l2; i++) {
-            char ch = t.charAt(i);
-
-            if (!map.containsKey(ch))
-                return false;
-
-            map.put(ch, map.get(ch) - 1);
-
-            if (map.get(ch) == 0)
-                map.remove(ch);
+        for (int x : freq) {
+            if (x != 0) return false;
         }
-        return map.isEmpty();
+        return true;
     }
 }
