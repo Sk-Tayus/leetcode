@@ -15,6 +15,7 @@ Leetcode solutions with thinking approach and idea.
 | [0066-plus-one](https://github.com/Sk-Tayus/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sk-Tayus/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/Sk-Tayus/leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Sk-Tayus/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sk-Tayus/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -168,6 +169,7 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sk-Tayus/leetcode/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Sk-Tayus/leetcode/tree/master/0135-candy) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sk-Tayus/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Quicksort
 |  |
