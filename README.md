@@ -11,6 +11,7 @@ Leetcode solutions with thinking approach and idea.
 | [0014-longest-common-prefix](https://github.com/Sk-Tayus/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sk-Tayus/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Sk-Tayus/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Sk-Tayus/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sk-Tayus/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sk-Tayus/leetcode/tree/master/0075-sort-colors) |
@@ -158,6 +159,7 @@ Leetcode solutions with thinking approach and idea.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sk-Tayus/leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Sk-Tayus/leetcode/tree/master/0704-binary-search) |
