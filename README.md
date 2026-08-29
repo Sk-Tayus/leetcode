@@ -166,6 +166,7 @@ Leetcode solutions with thinking approach and idea.
 | [0069-sqrtx](https://github.com/Sk-Tayus/leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Sk-Tayus/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Sk-Tayus/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -198,4 +199,8 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sk-Tayus/leetcode/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Sk-Tayus/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
