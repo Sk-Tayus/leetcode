@@ -28,6 +28,7 @@ Leetcode solutions with thinking approach and idea.
 | [0643-maximum-average-subarray-i](https://github.com/Sk-Tayus/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sk-Tayus/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sk-Tayus/leetcode/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sk-Tayus/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sk-Tayus/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Sk-Tayus/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -170,6 +171,7 @@ Leetcode solutions with thinking approach and idea.
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sk-Tayus/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Sk-Tayus/leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sk-Tayus/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -205,4 +207,8 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Sk-Tayus/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sk-Tayus/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
