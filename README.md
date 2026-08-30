@@ -74,6 +74,7 @@ Leetcode solutions with thinking approach and idea.
 | [0387-first-unique-character-in-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sk-Tayus/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sk-Tayus/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0984-string-without-aaa-or-bbb](https://github.com/Sk-Tayus/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sk-Tayus/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1768-merge-strings-alternately](https://github.com/Sk-Tayus/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Sk-Tayus/leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -186,6 +187,7 @@ Leetcode solutions with thinking approach and idea.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sk-Tayus/leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Sk-Tayus/leetcode/tree/master/0135-candy) |
+| [0984-string-without-aaa-or-bbb](https://github.com/Sk-Tayus/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sk-Tayus/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Quicksort
 |  |
