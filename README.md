@@ -57,6 +57,7 @@ Leetcode solutions with thinking approach and idea.
 | [0069-sqrtx](https://github.com/Sk-Tayus/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sk-Tayus/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Sk-Tayus/leetcode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sk-Tayus/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/Sk-Tayus/leetcode/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -163,6 +165,7 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sk-Tayus/leetcode/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Sk-Tayus/leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -213,4 +216,8 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sk-Tayus/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sk-Tayus/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
