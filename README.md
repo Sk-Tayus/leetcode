@@ -53,6 +53,7 @@ Leetcode solutions with thinking approach and idea.
 | ------- |
 | [0009-palindrome-number](https://github.com/Sk-Tayus/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sk-Tayus/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Sk-Tayus/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sk-Tayus/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Sk-Tayus/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sk-Tayus/leetcode/tree/master/0189-rotate-array) |
@@ -147,6 +148,7 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sk-Tayus/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Sk-Tayus/leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Sk-Tayus/leetcode/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
