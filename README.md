@@ -40,6 +40,7 @@ Leetcode solutions with thinking approach and idea.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sk-Tayus/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sk-Tayus/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sk-Tayus/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Sk-Tayus/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sk-Tayus/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Sk-Tayus/leetcode/tree/master/0383-ransom-note) |
@@ -69,6 +70,7 @@ Leetcode solutions with thinking approach and idea.
 | [0058-length-of-last-word](https://github.com/Sk-Tayus/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Sk-Tayus/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Sk-Tayus/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sk-Tayus/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sk-Tayus/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
