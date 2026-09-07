@@ -124,6 +124,7 @@ Leetcode solutions with thinking approach and idea.
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Sk-Tayus/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -145,6 +146,7 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sk-Tayus/leetcode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Sk-Tayus/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Linked List
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Leetcode solutions with thinking approach and idea.
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Sk-Tayus/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Sk-Tayus/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Matrix
 |  |
