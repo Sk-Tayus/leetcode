@@ -5,8 +5,7 @@ class Solution {
         int[] ans = new int[n - k + 1];
         int x = 0;
         for (int i = 0; i < n; i++) {
-            int curr = nums[i];
-            while (!dq.isEmpty() && nums[dq.peekLast()] < curr) {
+            while (!dq.isEmpty() && nums[dq.peekLast()] < nums[i]) {
                 dq.removeLast();
             }
             dq.addLast(i);
@@ -16,7 +15,6 @@ class Solution {
 
             if (i >= k - 1) {
                 ans[x++] = nums[dq.peekFirst()];
-                System.out.print(nums[dq.peekFirst()] + " ");
             }
 
         }
