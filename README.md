@@ -57,6 +57,7 @@ Leetcode solutions with thinking approach and idea.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sk-Tayus/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sk-Tayus/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sk-Tayus/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sk-Tayus/leetcode/tree/master/0013-roman-to-integer) |
@@ -158,12 +159,14 @@ Leetcode solutions with thinking approach and idea.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sk-Tayus/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sk-Tayus/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sk-Tayus/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0705-design-hashset](https://github.com/Sk-Tayus/leetcode/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sk-Tayus/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sk-Tayus/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Sk-Tayus/leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Sk-Tayus/leetcode/tree/master/0509-fibonacci-number) |
