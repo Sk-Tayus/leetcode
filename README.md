@@ -29,6 +29,7 @@ Leetcode solutions with thinking approach and idea.
 | [0594-longest-harmonious-subsequence](https://github.com/Sk-Tayus/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Sk-Tayus/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sk-Tayus/leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Sk-Tayus/leetcode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Sk-Tayus/leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sk-Tayus/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -51,6 +52,7 @@ Leetcode solutions with thinking approach and idea.
 | [0389-find-the-difference](https://github.com/Sk-Tayus/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sk-Tayus/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sk-Tayus/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0705-design-hashset](https://github.com/Sk-Tayus/leetcode/tree/master/0705-design-hashset) |
 | [3731-find-missing-elements](https://github.com/Sk-Tayus/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -158,6 +160,7 @@ Leetcode solutions with thinking approach and idea.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sk-Tayus/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sk-Tayus/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0705-design-hashset](https://github.com/Sk-Tayus/leetcode/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -169,6 +172,7 @@ Leetcode solutions with thinking approach and idea.
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sk-Tayus/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Sk-Tayus/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/Sk-Tayus/leetcode/tree/master/0705-design-hashset) |
 ## Matrix
 |  |
 | ------- |
@@ -287,4 +291,8 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Sk-Tayus/leetcode/tree/master/0202-happy-number) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Sk-Tayus/leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
