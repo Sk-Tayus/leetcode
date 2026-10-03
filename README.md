@@ -172,6 +172,7 @@ Leetcode solutions with thinking approach and idea.
 | [0002-add-two-numbers](https://github.com/Sk-Tayus/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sk-Tayus/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sk-Tayus/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Sk-Tayus/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sk-Tayus/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/Sk-Tayus/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Sk-Tayus/leetcode/tree/master/0705-design-hashset) |
@@ -198,6 +199,7 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sk-Tayus/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Sk-Tayus/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Sk-Tayus/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sk-Tayus/leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
@@ -296,6 +298,7 @@ Leetcode solutions with thinking approach and idea.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sk-Tayus/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Sk-Tayus/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0420-strong-password-checker](https://github.com/Sk-Tayus/leetcode/tree/master/0420-strong-password-checker) |
 ## Monotonic Queue
@@ -314,4 +317,12 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Sk-Tayus/leetcode/tree/master/0705-design-hashset) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sk-Tayus/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sk-Tayus/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
