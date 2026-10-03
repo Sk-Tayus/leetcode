@@ -123,6 +123,7 @@ Leetcode solutions with thinking approach and idea.
 | [0345-reverse-vowels-of-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Sk-Tayus/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sk-Tayus/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Leetcode solutions with thinking approach and idea.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sk-Tayus/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/Sk-Tayus/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Sk-Tayus/leetcode/tree/master/0705-design-hashset) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sk-Tayus/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
