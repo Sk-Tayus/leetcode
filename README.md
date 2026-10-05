@@ -18,6 +18,7 @@ Leetcode solutions with thinking approach and idea.
 | [0075-sort-colors](https://github.com/Sk-Tayus/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Sk-Tayus/leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Sk-Tayus/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Sk-Tayus/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sk-Tayus/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -43,6 +44,7 @@ Leetcode solutions with thinking approach and idea.
 | [0001-two-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sk-Tayus/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sk-Tayus/leetcode/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/Sk-Tayus/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Sk-Tayus/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sk-Tayus/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Sk-Tayus/leetcode/tree/master/0205-isomorphic-strings) |
@@ -81,6 +83,7 @@ Leetcode solutions with thinking approach and idea.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Sk-Tayus/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Sk-Tayus/leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Sk-Tayus/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sk-Tayus/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sk-Tayus/leetcode/tree/master/0242-valid-anagram) |
@@ -206,6 +209,7 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sk-Tayus/leetcode/tree/master/0053-maximum-subarray) |
+| [0139-word-break](https://github.com/Sk-Tayus/leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Sk-Tayus/leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -247,6 +251,7 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sk-Tayus/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Sk-Tayus/leetcode/tree/master/0139-word-break) |
 ## Newton's Method
 |  |
 | ------- |
@@ -262,6 +267,7 @@ Leetcode solutions with thinking approach and idea.
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Sk-Tayus/leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Sk-Tayus/leetcode/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
@@ -325,4 +331,8 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sk-Tayus/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Sk-Tayus/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
