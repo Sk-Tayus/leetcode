@@ -17,6 +17,7 @@ Leetcode solutions with thinking approach and idea.
 | [0066-plus-one](https://github.com/Sk-Tayus/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sk-Tayus/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Sk-Tayus/leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Sk-Tayus/leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Sk-Tayus/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Sk-Tayus/leetcode/tree/master/0169-majority-element) |
@@ -209,6 +210,7 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sk-Tayus/leetcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Sk-Tayus/leetcode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Sk-Tayus/leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Sk-Tayus/leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
