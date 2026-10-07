@@ -16,6 +16,7 @@ Leetcode solutions with thinking approach and idea.
 | [0053-maximum-subarray](https://github.com/Sk-Tayus/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sk-Tayus/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sk-Tayus/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Sk-Tayus/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sk-Tayus/leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Sk-Tayus/leetcode/tree/master/0135-candy) |
@@ -229,6 +230,7 @@ Leetcode solutions with thinking approach and idea.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sk-Tayus/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sk-Tayus/leetcode/tree/master/0389-find-the-difference) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -343,4 +345,5 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Sk-Tayus/leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Sk-Tayus/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
