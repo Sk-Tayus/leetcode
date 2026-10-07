@@ -339,4 +339,8 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Sk-Tayus/leetcode/tree/master/0139-word-break) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Sk-Tayus/leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
