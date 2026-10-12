@@ -1,20 +1,20 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int l1 = nums1.length;
-        Deque<Integer> dq = new ArrayDeque<>();
-        int[] map = new int[10001];
-        int[] res = new int[l1];
+        int[] next = new int[10001];          // value-as-index, stores (nextGreater + 1), 0 = none
+        int[] st = new int[nums2.length];     // int[] stack, no boxing, no Deque overhead
+        int top = 0;                          // stack size pointer
 
-        for (int i = nums2.length - 1; i >= 0; i--) {
-            while (!dq.isEmpty() && dq.peek() <= nums2[i]) {
-                dq.pop();
+        for (int x : nums2) {                 // forward pass
+            // x is the next greater for every smaller element on stack
+            while (top > 0 && st[top - 1] < x) {
+                next[st[--top]] = x + 1;      // +1 trick: 0 stays "not found"
             }
-            if (dq.isEmpty()) map[nums2[i]] = -1;
-            else map[nums2[i]] = dq.peek();
-            dq.push(nums2[i]);
+            st[top++] = x;
         }
-        for (int i = 0; i < l1; i++) {
-            res[i] = map[nums1[i]];
+
+        int[] res = new int[nums1.length];
+        for (int i = 0; i < nums1.length; i++) {
+            res[i] = next[nums1[i]] - 1;      // unset 0 gives -1 automatically
         }
         return res;
     }
