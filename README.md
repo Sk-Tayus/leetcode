@@ -29,6 +29,7 @@ Leetcode solutions with thinking approach and idea.
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Sk-Tayus/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Sk-Tayus/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Sk-Tayus/leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sk-Tayus/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Sk-Tayus/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sk-Tayus/leetcode/tree/master/0704-binary-search) |
@@ -56,6 +57,7 @@ Leetcode solutions with thinking approach and idea.
 | [0387-first-unique-character-in-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sk-Tayus/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sk-Tayus/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Sk-Tayus/leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sk-Tayus/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/Sk-Tayus/leetcode/tree/master/0705-design-hashset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sk-Tayus/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -171,6 +173,7 @@ Leetcode solutions with thinking approach and idea.
 | [0020-valid-parentheses](https://github.com/Sk-Tayus/leetcode/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Sk-Tayus/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sk-Tayus/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Sk-Tayus/leetcode/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -346,4 +349,8 @@ Leetcode solutions with thinking approach and idea.
 | ------- |
 | [0077-combinations](https://github.com/Sk-Tayus/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Sk-Tayus/leetcode/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Sk-Tayus/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
