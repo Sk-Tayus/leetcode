@@ -173,6 +173,7 @@ Leetcode solutions with thinking approach and idea.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sk-Tayus/leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Sk-Tayus/leetcode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Sk-Tayus/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Sk-Tayus/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sk-Tayus/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sk-Tayus/leetcode/tree/master/0496-next-greater-element-i) |
@@ -202,6 +203,7 @@ Leetcode solutions with thinking approach and idea.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Sk-Tayus/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Sk-Tayus/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Sk-Tayus/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/Sk-Tayus/leetcode/tree/master/0705-design-hashset) |
