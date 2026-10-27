@@ -30,6 +30,7 @@ Leetcode solutions with thinking approach and idea.
 | [0303-range-sum-query-immutable](https://github.com/Sk-Tayus/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Sk-Tayus/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sk-Tayus/leetcode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sk-Tayus/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Sk-Tayus/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sk-Tayus/leetcode/tree/master/0704-binary-search) |
@@ -58,6 +59,7 @@ Leetcode solutions with thinking approach and idea.
 | [0389-find-the-difference](https://github.com/Sk-Tayus/leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sk-Tayus/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Sk-Tayus/leetcode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sk-Tayus/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/Sk-Tayus/leetcode/tree/master/0705-design-hashset) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sk-Tayus/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -76,6 +78,7 @@ Leetcode solutions with thinking approach and idea.
 | [0202-happy-number](https://github.com/Sk-Tayus/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Sk-Tayus/leetcode/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sk-Tayus/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
@@ -165,6 +168,7 @@ Leetcode solutions with thinking approach and idea.
 | [0209-minimum-size-subarray-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Sk-Tayus/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Sk-Tayus/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Sk-Tayus/leetcode/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sk-Tayus/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Sk-Tayus/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -359,4 +363,8 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sk-Tayus/leetcode/tree/master/0496-next-greater-element-i) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
