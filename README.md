@@ -28,6 +28,7 @@ Leetcode solutions with thinking approach and idea.
 | [0239-sliding-window-maximum](https://github.com/Sk-Tayus/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Sk-Tayus/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0455-assign-cookies](https://github.com/Sk-Tayus/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Sk-Tayus/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sk-Tayus/leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -133,6 +134,7 @@ Leetcode solutions with thinking approach and idea.
 | [0234-palindrome-linked-list](https://github.com/Sk-Tayus/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Sk-Tayus/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/Sk-Tayus/leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Sk-Tayus/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sk-Tayus/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -145,6 +147,7 @@ Leetcode solutions with thinking approach and idea.
 | [0242-valid-anagram](https://github.com/Sk-Tayus/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sk-Tayus/leetcode/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/Sk-Tayus/leetcode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sk-Tayus/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/Sk-Tayus/leetcode/tree/master/3731-find-missing-elements) |
@@ -258,12 +261,14 @@ Leetcode solutions with thinking approach and idea.
 | [0011-container-with-most-water](https://github.com/Sk-Tayus/leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Sk-Tayus/leetcode/tree/master/0135-candy) |
 | [0420-strong-password-checker](https://github.com/Sk-Tayus/leetcode/tree/master/0420-strong-password-checker) |
+| [0455-assign-cookies](https://github.com/Sk-Tayus/leetcode/tree/master/0455-assign-cookies) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Sk-Tayus/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sk-Tayus/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Quicksort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sk-Tayus/leetcode/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Sk-Tayus/leetcode/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
