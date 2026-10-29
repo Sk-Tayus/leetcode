@@ -162,6 +162,7 @@ Leetcode solutions with thinking approach and idea.
 | [0387-first-unique-character-in-a-string](https://github.com/Sk-Tayus/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sk-Tayus/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sk-Tayus/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1603-design-parking-system](https://github.com/Sk-Tayus/leetcode/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -211,6 +212,7 @@ Leetcode solutions with thinking approach and idea.
 | [0232-implement-queue-using-stacks](https://github.com/Sk-Tayus/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Sk-Tayus/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/Sk-Tayus/leetcode/tree/master/0705-design-hashset) |
+| [1603-design-parking-system](https://github.com/Sk-Tayus/leetcode/tree/master/1603-design-parking-system) |
 ## Matrix
 |  |
 | ------- |
@@ -367,4 +369,8 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0523-continuous-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Sk-Tayus/leetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
