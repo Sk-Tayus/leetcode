@@ -27,6 +27,7 @@ Leetcode solutions with thinking approach and idea.
 | [0238-product-of-array-except-self](https://github.com/Sk-Tayus/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sk-Tayus/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Sk-Tayus/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Sk-Tayus/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/Sk-Tayus/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Sk-Tayus/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -233,6 +234,7 @@ Leetcode solutions with thinking approach and idea.
 | [0053-maximum-subarray](https://github.com/Sk-Tayus/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Sk-Tayus/leetcode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Sk-Tayus/leetcode/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/Sk-Tayus/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Sk-Tayus/leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -242,6 +244,7 @@ Leetcode solutions with thinking approach and idea.
 | [0069-sqrtx](https://github.com/Sk-Tayus/leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sk-Tayus/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sk-Tayus/leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Sk-Tayus/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sk-Tayus/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Sk-Tayus/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sk-Tayus/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -378,4 +381,8 @@ Leetcode solutions with thinking approach and idea.
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Sk-Tayus/leetcode/tree/master/1603-design-parking-system) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Sk-Tayus/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
