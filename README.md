@@ -39,6 +39,7 @@ Leetcode solutions with thinking approach and idea.
 | [0705-design-hashset](https://github.com/Sk-Tayus/leetcode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Sk-Tayus/leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sk-Tayus/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Sk-Tayus/leetcode/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sk-Tayus/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sk-Tayus/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Sk-Tayus/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -265,6 +266,7 @@ Leetcode solutions with thinking approach and idea.
 | [0135-candy](https://github.com/Sk-Tayus/leetcode/tree/master/0135-candy) |
 | [0420-strong-password-checker](https://github.com/Sk-Tayus/leetcode/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/Sk-Tayus/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Sk-Tayus/leetcode/tree/master/0860-lemonade-change) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Sk-Tayus/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sk-Tayus/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Quicksort
